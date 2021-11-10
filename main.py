@@ -7,4 +7,4 @@ n = input("Enter number to check:")
 if(is_palindrome(n)):
     print("Palindrome")
 else:
-    print("Not a palindrome")
+    print("Not a Palindrome")
